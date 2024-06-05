@@ -1,0 +1,1 @@
+This project was undertaken for the CSIS 3460 Object-Oriented Design course. The goal was to either build a Color Buster game from scratch or enhance the provided code. I opted to enhance the existing code and introduced my own features, which are clearly labeled within the code.
